@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on one of ma dream website<br><br>🟡 I’m looking for help with expanding my knowledge in advanced Solidity smart contracts and AWS architecture.<br><br>🌱 I’m currently learning MERN<br><br>💬 Ask me about **my experiences in hackathons, IoT projects, and optimizing sales workflows with Salesforce.**<br><br>⚡ Fun fact I once solved a Rubik's Cube in under 2 minutes... and then couldn't do it again for a week!<br>
+🔭 I’m currently working on one of ma dream website<br><br>🟡 I’m looking for help with expanding my knowledge in advanced Solidity smart contracts and AWS architecture<br><br>🌱 I’m currently learning MERN<br><br>💬 Ask me about **my experiences in hackathons, IoT projects, and optimizing sales workflows with Salesforce**<br><br>⚡ Fun fact I once solved a Rubik's Cube in under 2 minutes... and then couldn't do it again for a week!<br>
 
 
 ## 🌐 Socials:
