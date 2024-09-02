@@ -2,7 +2,7 @@
   <h1>Hi, I'm <a href="https://github.com/Likhith12gl">Likhith S V</a>!</h1>
   <p><em>🚀 MERN Stack Explorer | ☁️ Cloud Enthusiast</em></p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=700&height=45&lines=Turning+Coffee+into+Code+Since+2021;Passionate+about+Innovation+and+Technology;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=600&height=80&lines=Building+Things+One+Commit+at+a+Time;Turning+Ideas+into+Reality;Crafting+Code+with+Passion" alt="Typing SVG" />
 </div>
 
 ---
