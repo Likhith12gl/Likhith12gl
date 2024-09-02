@@ -2,7 +2,7 @@
   <h1>Hi, I'm <a href="https://github.com/Likhith12gl">Likhith S V</a>!</h1>
   <p><em>🚀 MERN Stack Explorer | ☁️ Cloud Enthusiast</em></p>
   
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=600&height=80&lines=Building+Things+One+Commit+at+a+Time;Turning+Ideas+into+Reality;Crafting+Code+with+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Building+Things+One+Commit+at+a+Time;Turning+Ideas+into+Reality;Crafting+Code+with+Passion" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,33 +19,9 @@
 
 ### 🛠️ Skills & Technologies
 
-**Programming Languages**
-  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
-
-**Cloud & Other Technologies**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge&logo=internet-of-things&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Soft Skills**
-
-- 🎯 Innovative Problem-Solving
-- ⚡ Agile Adaptability
-- 🤝 Advanced Collaboration
-- 🗣️ Effective Communication
+- **Languages:** C, Java, Python, JavaScript, Solidity
+- **Databases:** SQL, MongoDB, Blockchain
+- **Other Skills:** AWS, IoT
 
 ---
 
@@ -109,32 +85,35 @@
 
 ---
 
-### 🏆 Achievements & Awards
+### 🥇 Achievements & Awards
 
-- 🥇 **First Place** - *National Level Hackathon*
-  - Led the development of a blockchain-based voting system that earned first place at the **Ambition Hackathon** organized by Bangalore Institute of Technology, Bangalore.
+<details>
+  <summary><b>National Level Hackathon - First Place</b></summary>
+  <ul>
+    <li>Led the development of a blockchain-based voting system that earned first place at the **Ambition Hackathon** organized by Bangalore Institute of Technology, Bangalore.</li>
+  </ul>
+</details>
 
-- 🏆 **Top Position** - *National Development Hackathon*
-  - Recognized for creating an innovative custom car sales app that optimized 50% of sales workflows at **Hack Overflow** held at KLE Institute of Technology, Hubballi.
+<details>
+  <summary><b>National Development Hackathon - Top Position</b></summary>
+  <ul>
+    <li>Recognized for creating an innovative custom car sales app that optimized 50% of sales workflows at **Hack Overflow** held at KLE Institute of Technology, Hubballi.</li>
+  </ul>
+</details>
 
-- 🎖️ **Runner-Up** - *Research Paper Presentation*
-  - Presented a groundbreaking study on medication adherence, contributing to solutions addressing over 40% of related diseases at the **Research Paper Presentation** at BGS Institute of Technology, Bangalore.
+<details>
+  <summary><b>Research Paper Presentation - Runner-Up</b></summary>
+  <ul>
+    <li>Presented a groundbreaking study on medication adherence, contributing to solutions addressing over 40% of related diseases at the **Research Paper Presentation** at BGS Institute of Technology, Bangalore.</li>
+  </ul>
+</details>
 
-- 🥇 **Champion** - *Regional IoT Hackathon*
-  - Developed an IoT-based medication reminder system, securing first place at a regional hackathon hosted by **Adichunchanagiri Institute of Technology**, Chikmagalur.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhith12gl&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhith12gl&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith12gl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%"/>
-</p>
+<details>
+  <summary><b>Regional IoT Hackathon - Champion</b></summary>
+  <ul>
+    <li>Developed an IoT-based medication reminder system, securing first place at a regional hackathon hosted by **Adichunchanagiri Institute of Technology**, Chikmagalur.</li>
+  </ul>
+</details>
 
 ---
 
@@ -151,4 +130,10 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:7019188609@gmail.com" target="_blank">
-    <img src="https://img.shields
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>"Code is like humor. When you have to explain it, it’s bad."</strong> – Cory House
+</p>
