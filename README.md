@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi, I'm <a href="https://github.com/Likhith12gl">Likhith S V</a>!</h1>
-  <p><em>👨‍💻 Software Developer | 🚀 Tech Enthusiast | ☁️ Cloud Explorer</em></p>
+  <p><em>🚀 MERN Stack Explorer | ☁️ Cloud Enthusiast</em></p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=45&lines=Turning+Coffee+into+Code+Since+2021;Passionate+about+Innovation+and+Technology;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=700&height=45&lines=Turning+Coffee+into+Code+Since+2021;Passionate+about+Innovation+and+Technology;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -52,7 +52,7 @@
 ### 📚 Projects
 
 <details>
-  <summary><b>🗳️ Democrochain</b> <em>(Jul 2024 - Aug 2024)</em></summary>
+  <summary><b>🗳️ Democrochain</b></summary>
   <ul>
     <li>**Description:** A Blockchain-based Voting Application built on Ethereum to revolutionize electoral processes.</li>
     <li>**Impact:** 
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-  <summary><b>💊 Pill Reminder</b> <em>(Oct 2023 - Nov 2023)</em></summary>
+  <summary><b>💊 Pill Reminder</b></summary>
   <ul>
     <li>**Description:** An IoT-based Medication Reminder System to improve health adherence.</li>
     <li>**Impact:** 
@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary><b>🚗 Custom Car Sales App</b> <em>(Dec 2023 - Jan 2024)</em></summary>
+  <summary><b>🚗 Custom Car Sales App</b></summary>
   <ul>
     <li>**Description:** A comprehensive car sales platform built on Salesforce.com to streamline sales processes.</li>
     <li>**Impact:** 
@@ -99,7 +99,7 @@
 </details>
 
 <details>
-  <summary><b>💰 Crypto Volt</b> <em>(Dec 2023 - Jan 2024)</em></summary>
+  <summary><b>💰 Crypto Volt</b></summary>
   <ul>
     <li>**Description:** An Ethereum-based donation platform featuring Multisender for optimized transaction efficiency.</li>
     <li>**Impact:** Streamlined donation processes, reducing transaction times and fees significantly.</li>
@@ -151,16 +151,4 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:7019188609@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Likhith12gl&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <strong>"Innovation distinguishes between a leader and a follower."</strong> – Steve Jobs
-</p>
+    <img src="https://img.shields
