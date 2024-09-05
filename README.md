@@ -7,7 +7,7 @@
 
 ---
 
-### 🌟 About Me
+### 🌟  About Me
 
 - 🔭 **Currently Working On:** Bringing one of my dream websites to life.
 - 🌱 **Learning:** Diving deeper into the MERN stack and advanced Solidity smart contracts.
