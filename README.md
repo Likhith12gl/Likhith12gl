@@ -152,5 +152,5 @@
 </p>
 
 <p align="center">
-  <strong>"Code is like humor. When you have to explain it, it’s bad."</strong> – Cory House
+  <strong>"Code is like humor. When you have to explain it, it’s bad."</strong> 
 </p>
